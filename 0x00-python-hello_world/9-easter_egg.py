@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-import this
+"""
+reads a file from the main.py file
+"""
+import main
